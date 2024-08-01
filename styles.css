@@ -41,12 +41,15 @@
         padding: 0;
     }
 
-    .main-article__acoes .acoes__p{
-        padding: 0;
     .main-article__acoes .acoes__p p{
         width: 100%;
         text-align: justify;
         line-height: 30px;
+    }
+
+    .main-article__acoes .acoes__p{
+        padding: 0;
+
     }
 }
 html{
@@ -289,8 +292,3 @@ footer p{
     margin: 0;
     color: #395469;
 }
-
-
-
-
-
