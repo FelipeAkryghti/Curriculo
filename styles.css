@@ -40,7 +40,12 @@
         line-height: 32px;
         padding: 0;
     }
-
+    
+    .main-article__acoes .acoes__p p{
+        width: 100%;
+        text-align: justify;
+        line-height: 30px;
+    }
 }
 html{
     scroll-behavior: smooth;
