@@ -255,6 +255,7 @@ article h2{
     padding: 16px;
     text-shadow: -1px 1px 0 rgba(0, 0, 0, .1), -2px 2px 0 rgba(0, 0, 0, .1), -3px 3px 0 rgba(0, 0, 0, .1), -4px 4px 0 rgba(0, 0, 0, .1);
     line-height: 30px;
+    text-align: justify;
 }
 
 .main-article__acoes a{
