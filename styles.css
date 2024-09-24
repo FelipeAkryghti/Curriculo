@@ -9,7 +9,7 @@
         display: block;
         background-color: #162028;
         border: none;
-        font-size: 32px;
+        font-size: 38px;
         color: #668ba7;
         cursor: pointer;
         margin-left: 15px;
@@ -155,7 +155,7 @@ body{
 }
 
 .profile img:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
 }
 
 .profile p{
@@ -163,7 +163,6 @@ body{
     margin: 45px 45px;
     color: #162028;
     line-height: 32px;
-    text-shadow: -1px 1px 0 rgba(0, 0, 0, .1), -3px 3px 0 rgba(0, 0, 0, .1), -5px 5px 0 rgba(0, 0, 0, .1), -7px 7px 0 rgba(0, 0, 0, .1);
 }
 
 .main-article__dados{
@@ -171,8 +170,6 @@ body{
     color: #162028;
     text-align: center;
     line-height: 32px;
-    text-shadow: -1px 1px 0 rgba(0, 0, 0, .1), -3px 3px 0 rgba(0, 0, 0, .1), -5px 5px 0 rgba(0, 0, 0, .1), -7px 7px 0 rgba(0, 0, 0, .1);
-
 }
 article h2{
     margin-top: 35px;
@@ -198,7 +195,6 @@ article h2{
 .main-article__objetivo{
     background-color: #395469;
     color: #162028;
-    text-shadow: -1px 1px 0 rgba(0, 0, 0, .1), -2px 2px 0 rgba(0, 0, 0, .1), -3px 3px 0 rgba(0, 0, 0, .1), -5px 5px 0 rgba(0, 0, 0, .1);
 }
 
 .objetivo__p{
@@ -223,7 +219,6 @@ article h2{
     justify-content: center;
     line-height: 32px;
     text-align: center;
-    text-shadow: -1px 1px 0 rgba(0, 0, 0, .1), -2px 2px 0 rgba(0, 0, 0, .1), -3px 3px 0 rgba(0, 0, 0, .1), -4px 4px 0 rgba(0, 0, 0, .1);
 }
 
 .main-article__grau ul{
@@ -258,7 +253,6 @@ article h2{
 .cursos__ul{
     display: flex;
     justify-content: center;
-    text-shadow: -1px 1px 0 rgba(0, 0, 0, .1), -2px 2px 0 rgba(0, 0, 0, .1), -3px 3px 0 rgba(0, 0, 0, .1), -4px 4px 0 rgba(0, 0, 0, .1);
     padding: 0 16px 16px;
 }
 .cursos__ul ul{
@@ -301,7 +295,6 @@ article h2{
     margin-left:45px;
     margin-right: 45px;
     padding: 16px;
-    text-shadow: -1px 1px 0 rgba(0, 0, 0, .1), -2px 2px 0 rgba(0, 0, 0, .1), -3px 3px 0 rgba(0, 0, 0, .1), -4px 4px 0 rgba(0, 0, 0, .1);
     line-height: 30px;
     text-align: justify;
     
