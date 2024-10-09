@@ -161,13 +161,13 @@ body{
 .profile p{
     justify-content: center;
     margin: 45px 45px;
-    color: #162028;
+    color: black;
     line-height: 32px;
 }
 
 .main-article__dados{
     background-color: #53758f;
-    color: #162028;
+    color: black;
     text-align: center;
     line-height: 32px;
 }
@@ -194,7 +194,7 @@ article h2{
 
 .main-article__objetivo{
     background-color: #395469;
-    color: #162028;
+    color: black;
 }
 
 .objetivo__p{
@@ -211,7 +211,7 @@ article h2{
 
 .main-article__grau{
     background-color: #71a3c9;
-    color: #162028;
+    color: black;
 }
 
 .grau__ul{
@@ -231,7 +231,7 @@ article h2{
 
 .main-article__grau li a{
     text-decoration: none;
-    color: #162028;
+    color: black;
     display: inline-block;
     background-color: rgba(0, 0, 0, .1);
     border-bottom: 3px solid #425564;
@@ -242,7 +242,7 @@ article h2{
 }
 
 .main-article__grau li a:hover{
-    transform: scale(1.1);
+    transform: scale(1.05);
     background-color: rgba(0, 0, 0, .3);
 }
 
@@ -269,7 +269,7 @@ article h2{
 
 .main-article__cursos li a{
     text-decoration: none;
-    color: #162028;
+    color: black;
     display: inline-block;
     background-color: rgba(0, 0, 0, .1);
     border-bottom: 3px solid #425564;
@@ -304,7 +304,7 @@ article h2{
 }
 .main-article__acoes a{
     text-decoration: none;
-    color: #162028;
+    color: black;
     display: inline-block;
     background-color: rgba(0, 0, 0, .1);
     border-bottom: 3px solid #425564;
